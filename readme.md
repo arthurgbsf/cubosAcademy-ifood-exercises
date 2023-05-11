@@ -1,0 +1,1 @@
+Repositório para armazenar os exercícios propostos e suas soluções do processo seletivo para concorrer a uma bolsa do Cubos Academy em parceria com o Ifood.
